@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+.Intro{
+    padding: 1rem 0 1rem 0;
+    background-color: #dbdbdb;
+}
+.colorTop{
+    background-color: #e03a3d;
+    height: 0.75rem;
+}
+.col-8{
+    border-right: 2px solid #e03a3d;
+}
+.connection{
+    padding: 5rem 0 5rem 0;
+}
+.connection p {
+    color: #e03a3d;
+    font-weight: bold;
+    margin: 0;
+}
+.icon{
+    margin-bottom: 1rem;
+}
+.prog{
+    margin-bottom: 1rem;
+    height: 2rem ;
+    width: 100%;
+    background-color:#dbdbdb ;
+}
+.prog div{
+    height: 2rem;   
+    color: #fff;
+    padding-left:0.5rem ;
+}
